@@ -9,8 +9,9 @@ body{
 }
 .fa-trash-alt:before {
     content: "\f2ed";
-    margin-left: 10px;
-
+    position: absolute;
+    right: 180px;
+    top:10px;
 }
 .fa-trash-alt:hover{
 
